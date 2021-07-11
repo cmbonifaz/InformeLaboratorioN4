@@ -8,7 +8,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 **Docente:** Ing. Darwin Alulema
 
-**Tema:** ANÁLISIS DE NODOS
+**Tema:** TEOREMA DE SUPERPOSICION
 
 #### 1. OBJETIVOS 
 
