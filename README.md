@@ -14,6 +14,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/85208164/125861394-3c6dde80-a335-4a73-8ccc-573c9abf6722.png)
+
 #### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
