@@ -76,15 +76,12 @@ Sumamos la resistencia R3 y la resistencia equivalente
 
 Y finalmente calculamos la resistencia total
 
-![7](https://user-images.githubusercontent.com/84586968/125867674-81f1e9df-2f58-4823-aacc-bec686c0279a.PNG)
 
 Encontramos la corriente total
 
-![8](https://user-images.githubusercontent.com/84586968/125868666-0f903fec-09e0-4205-ad59-f2760b99aa62.PNG)
 
 Mediante el divisor de corriente encontramos I3
 
-![9](https://user-images.githubusercontent.com/84586968/125867683-c873ca43-7d34-45c4-a1a9-d3ab4d57c14d.PNG)
 
 Calculamos el voltaje V3
 
