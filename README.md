@@ -108,6 +108,10 @@ Restamos los voltajes y las corrientes para obtener los resultados reales
 
 ![13](https://user-images.githubusercontent.com/84586968/125869813-6749453c-8193-49d5-b555-6b3e9360bc5f.PNG)
 
+**Porcentajes de Error**
+
+![error](https://user-images.githubusercontent.com/84586968/125867699-2d2c0e51-b5de-488b-a46e-0f5b253d2d37.PNG)
+
 #### 5. VIDEO
 
 #### 6. CONCLUSIONES 
