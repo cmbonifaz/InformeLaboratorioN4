@@ -73,6 +73,7 @@ Y finalmente calculamos la resistencia total
 
 Encontramos la corriente total
 
+![8](https://user-images.githubusercontent.com/84586968/125868666-0f903fec-09e0-4205-ad59-f2760b99aa62.PNG)
 
 Mediante el divisor de corriente encontramos I3
 
