@@ -21,9 +21,11 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 #### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 3.1 El equipo requerido y utilizado para la elaboracion del circuito es el siguiente:
 
-
+![materiales](https://user-images.githubusercontent.com/84586968/125867697-be7677ed-035d-4eb7-935f-35a15d9b7c23.PNG)
 
 3.2 Implemente el circuito que se presenta en la figura
+
+![normal](https://user-images.githubusercontent.com/84586968/125867778-d89cd500-30dc-48b0-8d72-87c5997aee28.PNG)
 
 3.3 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas respectivamente.
 
