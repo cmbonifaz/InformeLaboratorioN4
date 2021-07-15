@@ -44,6 +44,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 **Corto circuito en V2** 
 
+![V1](https://user-images.githubusercontent.com/84586968/125870487-376dc60e-3935-41a6-b582-10b6f964e05c.PNG)
+
 V2=0
 
 La corriente I4 es igual a 0 porque en la corriente I5 no existe resistencia
@@ -69,6 +71,8 @@ Obtenemos:
 ![4](https://user-images.githubusercontent.com/84586968/125867664-7aed6f42-4c30-4e7e-bf72-0cbfb9d01d78.PNG)
 
 **Corto Circuito en V2**
+
+![v2](https://user-images.githubusercontent.com/84586968/125870488-509b2ba1-71b1-4fe7-9e46-890837a07625.PNG)
 
 V1=0
 
