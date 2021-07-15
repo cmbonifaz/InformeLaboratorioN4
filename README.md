@@ -37,10 +37,15 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 **Corto circuito en V2** 
+
 V2=0
+
 La corriente I4 es igual a 0 porque en la corriente I5 no existe resistencia
-Por lo que la corriente va a fluir por I5 y no por I4 
+
+Por lo que la corriente va a fluir por I5 y no por I4
+
 En la resistencia R4 no pasa ninguna corriente por lo que no le tomamos en cuenta
+
 Calculamos la resistencia equivalente de R3 y R2
 
 ![1](https://user-images.githubusercontent.com/84586968/125867653-d0744c70-c352-4104-9c92-083429f302a4.PNG)
@@ -58,7 +63,9 @@ Obtenemos:
 ![4](https://user-images.githubusercontent.com/84586968/125867664-7aed6f42-4c30-4e7e-bf72-0cbfb9d01d78.PNG)
 
 **Corto Circuito en V2**
+
 V1=0
+
 Calculamos la resistencia equivalente de R1 y R2
 
 ![5](https://user-images.githubusercontent.com/84586968/125867667-4af3a375-6680-4d46-bf11-27a12bd248c9.PNG)
