@@ -33,8 +33,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 3.5 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas respectivamente.
 
-
-
+![tablas](https://user-images.githubusercontent.com/84586968/125867703-81946766-d0d5-45a6-9df1-ed18d1c59882.PNG)
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
