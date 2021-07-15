@@ -29,7 +29,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 3.3 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas respectivamente.
 
-![materiales](https://user-images.githubusercontent.com/84586968/125867697-be7677ed-035d-4eb7-935f-35a15d9b7c23.PNG)
+![circuito tinker](https://user-images.githubusercontent.com/84586968/125867694-baa7cbf7-e0d1-43cc-9f5c-2119bf31bcc1.PNG)
 
 3.4 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas respectivamente.
 
