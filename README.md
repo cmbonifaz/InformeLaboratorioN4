@@ -19,6 +19,20 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 ![image](https://user-images.githubusercontent.com/85208164/125861394-3c6dde80-a335-4a73-8ccc-573c9abf6722.png)
 
 #### 3. EXPLICACIÓN DEL PROCEDIMIENTO
+3.1 El equipo requerido y utilizado para la elaboracion del circuito es el siguiente:
+
+
+
+3.2 Implemente el circuito que se presenta en la figura
+
+3.3 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas respectivamente.
+
+3.4 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas respectivamente.
+
+3.5 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas respectivamente.
+
+
+
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
