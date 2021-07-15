@@ -82,14 +82,31 @@ Sumamos la resistencia R3 y la resistencia equivalente
 
 Y finalmente calculamos la resistencia total
 
+![7](https://user-images.githubusercontent.com/84586968/125869805-d2e015ed-2b2e-42b1-ba2a-b12dfba8551f.PNG)
 
 Encontramos la corriente total
 
+![8](https://user-images.githubusercontent.com/84586968/125869806-4a54abe7-5f21-4c82-a854-67eb44fd8bfe.PNG)
 
 Mediante el divisor de corriente encontramos I3
 
+![9](https://user-images.githubusercontent.com/84586968/125869807-c4114e9d-610e-4354-816c-8bc90d967b28.PNG)
 
 Calculamos el voltaje V3
+
+![10](https://user-images.githubusercontent.com/84586968/125869809-ae515a9a-24a0-42cc-91f1-c3f6b3ca8870.PNG)
+
+Mediante divisor de corriente encontramos I4
+
+![11](https://user-images.githubusercontent.com/84586968/125869811-fd55e932-6260-4004-9d36-904e20b56c09.PNG)
+
+Obtenemos:
+
+![12](https://user-images.githubusercontent.com/84586968/125869812-56c08097-f38d-4aae-823b-816fe4c60a3c.PNG)
+
+Restamos los voltajes y las corrientes para obtener los resultados reales 
+
+![13](https://user-images.githubusercontent.com/84586968/125869813-6749453c-8193-49d5-b555-6b3e9360bc5f.PNG)
 
 #### 5. VIDEO
 
