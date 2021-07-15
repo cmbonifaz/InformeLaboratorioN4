@@ -36,6 +36,49 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 ![tablas](https://user-images.githubusercontent.com/84586968/125867703-81946766-d0d5-45a6-9df1-ed18d1c59882.PNG)
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+**Corto circuito en V2** 
+V2=0
+La corriente I4 es igual a 0 porque en la corriente I5 no existe resistencia
+Por lo que la corriente va a fluir por I5 y no por I4 
+En la resistencia R4 no pasa ninguna corriente por lo que no le tomamos en cuenta
+Calculamos la resistencia equivalente de R3 y R2
+
+![1](https://user-images.githubusercontent.com/84586968/125867653-d0744c70-c352-4104-9c92-083429f302a4.PNG)
+
+Calculamos la resistencia y corriente total
+
+![2](https://user-images.githubusercontent.com/84586968/125867655-05f70c2b-87f3-4a1d-b80f-d554e6ad8379.PNG)
+
+Con el divisor de corriente encontramos la corriente en I3
+
+![3](https://user-images.githubusercontent.com/84586968/125867659-1fcba381-96d9-4302-8b37-9515038d3b9e.PNG)
+
+Obtenemos:
+
+![4](https://user-images.githubusercontent.com/84586968/125867664-7aed6f42-4c30-4e7e-bf72-0cbfb9d01d78.PNG)
+
+**Corto Circuito en V2**
+V1=0
+Calculamos la resistencia equivalente de R1 y R2
+
+![5](https://user-images.githubusercontent.com/84586968/125867667-4af3a375-6680-4d46-bf11-27a12bd248c9.PNG)
+
+Sumamos la resistencia R3 y la resistencia equivalente
+
+![6](https://user-images.githubusercontent.com/84586968/125867671-6fde70c9-8999-44d6-a971-c02d6a5baffa.PNG)
+
+Y finalmente calculamos la resistencia total
+
+![7](https://user-images.githubusercontent.com/84586968/125867674-81f1e9df-2f58-4823-aacc-bec686c0279a.PNG)
+
+Encontramos la corriente total
+
+
+Mediante el divisor de corriente encontramos I3
+
+![9](https://user-images.githubusercontent.com/84586968/125867683-c873ca43-7d34-45c4-a1a9-d3ab4d57c14d.PNG)
+
+Calculamos el voltaje V3
 
 #### 5. VIDEO
 
