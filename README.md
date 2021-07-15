@@ -29,9 +29,15 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 3.3 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas respectivamente.
 
+![materiales](https://user-images.githubusercontent.com/84586968/125867697-be7677ed-035d-4eb7-935f-35a15d9b7c23.PNG)
+
 3.4 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas respectivamente.
 
+![simV2](https://user-images.githubusercontent.com/84586968/125867692-41375b0a-d2f3-4df6-bcea-75483edd02bf.PNG)
+
 3.5 Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas respectivamente.
+
+![simV1](https://user-images.githubusercontent.com/84586968/125867691-98746304-87f2-467b-ac5b-fcf5179e698e.PNG)
 
 ![tablas](https://user-images.githubusercontent.com/84586968/125867703-81946766-d0d5-45a6-9df1-ed18d1c59882.PNG)
 
