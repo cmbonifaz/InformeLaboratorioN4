@@ -14,6 +14,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 •	El objetivo de esta práctica es demostrar el teorema de superposición por dos métodos uno experimental y el otro teórico a partir de cálculos por el mismo método, en la manera en que se logre entender la funcionalidad de facilitar el cálculo de mediciones.
 
+•	Comparar los resultado obtenidos por el teorema con los simulados en tinkercad para demostrar la efectividad del proceso de calculo de voltajes y corrientes del teorema 
+
 #### 2. MARCO TEÓRICO 
 
 ![image](https://user-images.githubusercontent.com/85208164/125861394-3c6dde80-a335-4a73-8ccc-573c9abf6722.png)
@@ -122,5 +124,6 @@ Restamos los voltajes y las corrientes para obtener los resultados reales
 
 •	Se concluye que el teorema de superposición es válido, la tensión entre los extremos (o la corriente) de un elemento en un circuito lineal es la suma algebraica de las tensiones (o corrientes) a través de ese elemento.
 
+•	Mediante la aplicacion del teorema se observo que la corriente I3 busco el camino mas facil donde fluir elijiendo una la trayectoria de I5 donde no habia resistencia por lo que la corriente I3 quedo sin corriente.
 
 #### 7. BIBLIOGRAFÍA
