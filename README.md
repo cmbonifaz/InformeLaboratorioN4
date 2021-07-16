@@ -128,4 +128,6 @@ Restamos los voltajes y las corrientes para obtener los resultados reales
 
 •	Mediante la aplicacion del teorema se observo que la corriente I3 busco el camino mas facil donde fluir elijiendo una la trayectoria de I5 donde no habia resistencia por lo que la corriente I3 quedo sin corriente.
 
+• El Teorema de superposición permite evaluar los datos proporcionados por cada una de las fuentes en las diferentes resistencias del sistema para luego sumar estos datos y hallar los verdaderos valores proporcionados en el circuito
+
 #### 7. BIBLIOGRAFÍA
