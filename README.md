@@ -132,3 +132,9 @@ Restamos los voltajes y las corrientes para obtener los resultados reales
 • El Teorema de superposición permite evaluar los datos proporcionados por cada una de las fuentes en las diferentes resistencias del sistema para luego sumar estos datos y hallar los verdaderos valores proporcionados en el circuito
 
 #### 7. BIBLIOGRAFÍA
+
+Floyd,   T.   “ley   de   Ohm-   principio   de   superposición”   enPrincipios de circuitos Eléctricos, , 8th ed. México.
+
+Charles,   A.   “Superposición,”   en  Fundamentos   de   circuitoseléctricos, 3th ed. México.
+
+
