@@ -63,7 +63,7 @@ Calculamos la resistencia equivalente de R3 y R2
 
 Calculamos la resistencia y corriente total
 
-![2](https://user-images.githubusercontent.com/84586968/125867655-05f70c2b-87f3-4a1d-b80f-d554e6ad8379.PNG)
+![2](https://user-images.githubusercontent.com/84586968/125896654-2534bfa8-d1e5-4de3-82a9-3bba822bd1f5.PNG)
 
 Con el divisor de corriente encontramos la corriente en I3
 
