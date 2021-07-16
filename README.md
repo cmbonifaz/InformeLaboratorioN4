@@ -16,6 +16,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 •	Comparar los resultado obtenidos por el teorema con los simulados en tinkercad para demostrar la efectividad del proceso de calculo de voltajes y corrientes del teorema 
 
+•	Analizar el teorema de superposición en el circuito propuesto mediante la comprobación de mediciones experimentales y simulaciones con la ayuda de la herramienta tinkercad.
+
 #### 2. MARCO TEÓRICO 
 
 ![image](https://user-images.githubusercontent.com/85208164/125888569-064b5a35-381a-49c3-a432-a9806dbb5b57.png)
