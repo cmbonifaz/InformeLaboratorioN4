@@ -14,7 +14,9 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 •	El objetivo de esta práctica es demostrar el teorema de superposición por dos métodos uno experimental y el otro teórico a partir de cálculos por el mismo método, en la manera en que se logre entender la funcionalidad de facilitar el cálculo de mediciones.
 
-•	Comparar los resultado obtenidos por el teorema con los simulados en tinkercad para demostrar la efectividad del proceso de calculo de voltajes y corrientes del teorema 
+•	Comparar los resultado obtenidos por el teorema con los simulados en tinkercad para demostrar la efectividad del proceso de calculo de voltajes y corrientes del teorema  
+
+•	Analizar el teorema de superposición en el circuito propuesto mediante la comprobación de mediciones experimentales y simulaciones con la ayuda de la herramienta tinkercad.
 
 #### 2. MARCO TEÓRICO 
 
