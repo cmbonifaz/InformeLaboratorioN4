@@ -59,7 +59,7 @@ En la resistencia R4 no pasa ninguna corriente por lo que no le tomamos en cuent
 
 Calculamos la resistencia equivalente de R3 y R2
 
-![1](https://user-images.githubusercontent.com/84586968/125867653-d0744c70-c352-4104-9c92-083429f302a4.PNG)
+![1](https://user-images.githubusercontent.com/84586968/125896651-805d9ac5-ddaa-4306-b401-881c6aa42e46.PNG)
 
 Calculamos la resistencia y corriente total
 
@@ -67,7 +67,7 @@ Calculamos la resistencia y corriente total
 
 Con el divisor de corriente encontramos la corriente en I3
 
-![3](https://user-images.githubusercontent.com/84586968/125867659-1fcba381-96d9-4302-8b37-9515038d3b9e.PNG)
+![3](https://user-images.githubusercontent.com/84586968/125896662-3f9b2c34-b294-4d90-a1ea-ce6908dc8868.PNG)
 
 Obtenemos:
 
